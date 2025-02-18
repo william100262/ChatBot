@@ -1,0 +1,27 @@
+{
+    "intents": [
+      {
+        "tag": "greeting",
+        "patterns": ["Hi there", "Hey", "How are you", "Is anyone there?", "Hello", "Good day"],
+        "responses": ["Hello", "Good to see you again", "Hi there", "How can I help you"],
+        "context": [""]
+      },
+      {
+        "tag": "goodbye",
+        "patterns": ["Bye", "See you later", "Goodbye for now", "Catch you next time", "Take care", "Farewell", "Peace out", "Later!"],
+        "responses": ["See you!", "Have a great day!", "Bye, take care!", "Goodbye!"]
+      },
+      {
+        "tag": "thanks",
+        "patterns": ["Thanks", "Thank you", "That's helpful", "Awesome, thanks", "Thanks for helping me"],
+        "responses": ["My pleasure", "You're Welcome"],
+        "context": [""]
+      },
+      {
+        "tag": "name",
+        "patterns": ["What's your name?", "Your name?", "Do you have a name?", "Can you tell me your name"],
+        "responses": ["My name is ChatBot"],
+        "context": [""]
+      }
+    ]
+  }
