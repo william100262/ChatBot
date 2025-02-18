@@ -25,7 +25,7 @@ python setup.py
 Lastly you run the chatbot: 
 python app.py
 
-Type in the termianl for a response
+Type in the terminal for a response
 
 ## Limitations
 . This is a basic chatbot so the respones are very limited
