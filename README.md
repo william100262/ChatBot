@@ -29,5 +29,5 @@ Type in the termianl for a response
 
 ## Limitations
 . This is a basic chatbot so the respones are very limited
-. The model can not handel complex conversations
+. The model can not handle complex conversations
 . The model is fixed which means it will not learn overtime based on your responses
